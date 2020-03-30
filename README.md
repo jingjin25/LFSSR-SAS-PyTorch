@@ -6,7 +6,7 @@ PyTorch implementation of **TIP 2018** paper: "**Light Field Spatial Super-resol
 - Python 3.6
 - PyTorch 1.0
 ### Dataset
-We provide MATLAB code for preparing the training and testing data. Please first download light field datasets, and put them into the corresponding folder of `LFData`.
+We provide MATLAB code for preparing the training and testing data. Please first download light field datasets, and put them into corresponding folders in `LFData`.
 
 ### Demo
 ```
