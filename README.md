@@ -19,7 +19,7 @@ optional arguments:
   --model_path        Model path. Default=pretrained_models/model_2x.pth  
   --scale             SR factor  
   --test_dataset      Dataset for test  
-  --angular_num A     Size of one angular dim. Default=7.  
+  --angular_num       Size of one angular dim. Default=7.  
   --layer_num         Number of SAS layers. Default=6.  
   --save_img          Save image or not  
 ```
