@@ -31,7 +31,7 @@ python demo.py --model_path pretrained_models/model_2x.pth --test_dataset HCI --
     
 **Note:**  We provide 2 pre-trained models for 2x and 4x SR, respectively. There are some differences from the original MATLAB pre-trained models:  
 - new models were trained on a hybrid dataset containing both synthetic and real-world light field images, while the original ones were trained only on real-world images captured by a Lytro Illum camera;
-- and new models were trained for light fields with the angular resolution of 7x7, while the original ones were trained for 9x9 light fields. 
+- and new models were trained for light fields with the angular resolution of 7x7, while the original ones were trained for 8x8 light fields. 
 
 ### Training 
 An example of training your own model is shown as follows:
