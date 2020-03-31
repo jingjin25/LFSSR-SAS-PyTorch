@@ -17,7 +17,7 @@ usage: demo.py [-h] [--model_path MODEL_PATH] [--scale SCALE]
 optional arguments:  
   -h, --help          Show this help message and exit  
   --model_path        Model path. Default=pretrained_models/model_2x.pth  
-  --scale SCALE       SR factor  
+  --scale             SR factor  
   --test_dataset      Dataset for test  
   --angular_num A     Size of one angular dim. Default=7.  
   --layer_num         Number of SAS layers. Default=6.  
